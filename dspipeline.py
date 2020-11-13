@@ -499,7 +499,7 @@ def adult_data_modellers():
         'logistic': mLogRegCv,
         'gradient_boosting': mGB
     }
-
+ 
 
 def adult_data_demo():
     xtrain, ytrain, xtest, ytest = load_adult_income_data(
