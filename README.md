@@ -14,4 +14,4 @@ the primary function of this repo is to develop `git` skills over the course of 
 <<<<<<< HEAD
     + a file containing some utilities for building data science pipelines, and an example that trains several models on adult salary data and selects the best based on cross validated metrics
 =======
->>>>>>> yolo
+>>>>>>> yolo!
